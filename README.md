@@ -4,5 +4,9 @@
 phpVMS Route Finder
 </h1>
 <p>
-phpVMS routfinder for edi-gla.co.uk
+phpVMS route finder for edi-gla.co.uk, edi-gla has real world routes and should help your pilots out.
+This module is under a creative commons Attribution-NonCommercial-ShareAlike 3.0 Unported 
+
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
 </p>
